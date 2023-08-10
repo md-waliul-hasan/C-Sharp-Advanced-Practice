@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>C_Sharp_Advanced_Practice</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Topics\" />
+    <None Remove="Topics\Events\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Topics\" />
+    <Folder Include="Topics\Events\" />
+  </ItemGroup>
+</Project>

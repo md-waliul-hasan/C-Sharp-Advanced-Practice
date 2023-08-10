@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{230CEF55-EA1D-4117-B63B-8F13E82B5476}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="C-Sharp-Advanced-Practice/Program.cs">
+    <Files>
+      <File FileName="C-Sharp-Advanced-Practice/Topics/Events/EmptyClass.cs" Line="37" Column="76" />
+      <File FileName="C-Sharp-Advanced-Practice/Topics/Events/Video.cs" Line="4" Column="6" />
+      <File FileName="C-Sharp-Advanced-Practice/Program.cs" Line="10" Column="1" />
+      <File FileName="C-Sharp-Advanced-Practice/Topics/Events/MailService.cs" Line="8" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="C-Sharp-Advanced-Practice" expanded="True">
+            <Node name="C-Sharp-Advanced-Practice" expanded="True">
+              <Node name="Topics" expanded="True">
+                <Node name="Events" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.C-Sharp-Advanced-Practice PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
